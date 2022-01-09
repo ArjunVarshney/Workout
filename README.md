@@ -1,2 +1,2 @@
-# Time Table
-This is my college Time table. 😁
+# Workout
+This is my workout Time table. 😁
