@@ -61,15 +61,15 @@
             {
                "name":"Jumping lunges",
                "sets":"2",
-               "reps":"40"
+               "reps":"24"
             },
             {
                "name":"Single leg squat",
-               "sets":"3",
+               "sets":"1",
                "reps":"5"
             },
             {
-               "name":"Elevated single leg squat",
+               "name":"Leg curl",
                "sets":"3",
                "reps":"10"
             }
