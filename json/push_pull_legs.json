@@ -4,24 +4,24 @@
          "muscle":"Push",
          "exercises":[
             {
-               "name":"Push ups",
+               "name":"Dips",
+               "sets":"2",
+               "reps":"10"
+            },
+            {
+               "name":"Explosive push ups",
+               "sets":"2",
+               "reps":"5"
+            },
+            {
+               "name":"Straight bar dips",
                "sets":"3",
                "reps":"10"
             },
             {
-               "name":"Pseudo to Pike push up",
+               "name":"Tuck planche raises",
                "sets":"3",
-               "reps":"10"
-            },
-            {
-               "name":"90 degree holds",
-               "sets":"3",
-               "reps":"10"
-            },
-            {
-               "name":"Psuedo planche push ups",
-               "sets":"3",
-               "reps":"10"
+               "reps":"8"
             },
             {
                "name":"Handstand push ups",
@@ -29,17 +29,22 @@
                "reps":"5"
             },
             {
-               "name":"Planche leans",
+               "name":"Ring chest flies",
+               "sets":"3",
+               "reps":"8"
+            },
+            {
+               "name":"Weighted push ups",
                "sets":"3",
                "reps":"10"
             },
             {
-               "name":"Elevated pike push ups",
+               "name":"Slow dip",
                "sets":"3",
-               "reps":"10"
+               "reps":"60 sec"
             },
             {
-               "name":"Pike push ups",
+               "name":"Skull crusher",
                "sets":"3",
                "reps":"10"
             }
@@ -134,24 +139,24 @@
          "muscle":"Push",
          "exercises":[
             {
-               "name":"Push ups",
+               "name":"Dips",
+               "sets":"2",
+               "reps":"10"
+            },
+            {
+               "name":"Explosive push ups",
+               "sets":"2",
+               "reps":"5"
+            },
+            {
+               "name":"Straight bar dips",
                "sets":"3",
                "reps":"10"
             },
             {
-               "name":"Pseudo to Pike push up",
+               "name":"Tuck planche raises",
                "sets":"3",
-               "reps":"10"
-            },
-            {
-               "name":"90 degree holds",
-               "sets":"3",
-               "reps":"10"
-            },
-            {
-               "name":"Psuedo planche push ups",
-               "sets":"3",
-               "reps":"10"
+               "reps":"8"
             },
             {
                "name":"Handstand push ups",
@@ -159,17 +164,22 @@
                "reps":"5"
             },
             {
-               "name":"Planche leans",
+               "name":"Ring chest flies",
+               "sets":"3",
+               "reps":"8"
+            },
+            {
+               "name":"Weighted push ups",
                "sets":"3",
                "reps":"10"
             },
             {
-               "name":"Elevated pike push ups",
+               "name":"Slow dip",
                "sets":"3",
-               "reps":"10"
+               "reps":"60 sec"
             },
             {
-               "name":"Pike push ups",
+               "name":"Skull crusher",
                "sets":"3",
                "reps":"10"
             }
