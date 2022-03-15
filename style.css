@@ -84,6 +84,9 @@ main {
   width: 65%;
   padding-left: 20px;
 }
+.table:last-child{
+  margin-bottom: 30px;
+}
 .day {
   margin: 20px;
   padding: 20px;

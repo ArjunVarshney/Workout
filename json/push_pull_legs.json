@@ -1,0 +1,274 @@
+{
+   "workout": {
+      "Monday":{
+         "muscle":"Push",
+         "exercises":[
+            {
+               "name":"Push ups",
+               "sets":"3",
+               "reps":"10"
+            },
+            {
+               "name":"Pseudo to Pike push up",
+               "sets":"3",
+               "reps":"10"
+            },
+            {
+               "name":"90 degree holds",
+               "sets":"3",
+               "reps":"10"
+            },
+            {
+               "name":"Psuedo planche push ups",
+               "sets":"3",
+               "reps":"10"
+            },
+            {
+               "name":"Handstand push ups",
+               "sets":"3",
+               "reps":"5"
+            },
+            {
+               "name":"Planche leans",
+               "sets":"3",
+               "reps":"10"
+            },
+            {
+               "name":"Elevated pike push ups",
+               "sets":"3",
+               "reps":"10"
+            },
+            {
+               "name":"Pike push ups",
+               "sets":"3",
+               "reps":"10"
+            }
+         ]
+      },
+      "Tuesday":{
+         "muscle":"Pull",
+         "exercises":[
+            {
+               "name":"Pull ups",
+               "sets":"4",
+               "reps":"5"
+            },
+            {
+               "name":"Body rows",
+               "sets":"3",
+               "reps":"10"
+            },
+            {
+               "name":"Tuck front lever raises",
+               "sets":"3",
+               "reps":"10"
+            },
+            {
+               "name":"Wide pull ups",
+               "sets":"2",
+               "reps":"5"
+            },
+            {
+               "name":"Close grip pull ups",
+               "sets":"2",
+               "reps":"5"
+            },
+            {
+               "name":"Reverse flies",
+               "sets":"3",
+               "reps":"8"
+            },
+            {
+               "name":"One arm body rows",
+               "sets":"3 each",
+               "reps":"10"
+            },
+            {
+               "name":"Slow chin ups",
+               "sets":"3",
+               "reps":"60 sec"
+            },
+            {
+               "name":"Ring curls",
+               "sets":"3",
+               "reps":"10"
+            }
+         ]
+      },
+      "Wednesday":{
+         "muscle":"Legs",
+         "exercises":[
+            {
+               "name":"Free squat",
+               "sets":"2",
+               "reps":"25"
+            },
+            {
+               "name":"Weight squat",
+               "sets":"2",
+               "reps":"25"
+            },
+            {
+               "name":"Jump squat",
+               "sets":"2",
+               "reps":"25"
+            },
+            {
+               "name":"Jumping lunges",
+               "sets":"2",
+               "reps":"24"
+            },
+            {
+               "name":"Single leg squat",
+               "sets":"1",
+               "reps":"5"
+            },
+            {
+               "name":"Leg curl",
+               "sets":"3",
+               "reps":"10"
+            }
+         ]
+      },
+      "Thursday":{
+         "muscle":"Push",
+         "exercises":[
+            {
+               "name":"Push ups",
+               "sets":"3",
+               "reps":"10"
+            },
+            {
+               "name":"Pseudo to Pike push up",
+               "sets":"3",
+               "reps":"10"
+            },
+            {
+               "name":"90 degree holds",
+               "sets":"3",
+               "reps":"10"
+            },
+            {
+               "name":"Psuedo planche push ups",
+               "sets":"3",
+               "reps":"10"
+            },
+            {
+               "name":"Handstand push ups",
+               "sets":"3",
+               "reps":"5"
+            },
+            {
+               "name":"Planche leans",
+               "sets":"3",
+               "reps":"10"
+            },
+            {
+               "name":"Elevated pike push ups",
+               "sets":"3",
+               "reps":"10"
+            },
+            {
+               "name":"Pike push ups",
+               "sets":"3",
+               "reps":"10"
+            }
+         ]
+      },
+      "Friday":{
+         "muscle":"Pull",
+         "exercises":[
+            {
+               "name":"Pull ups",
+               "sets":"4",
+               "reps":"5"
+            },
+            {
+               "name":"Body rows",
+               "sets":"3",
+               "reps":"10"
+            },
+            {
+               "name":"Tuck front lever raises",
+               "sets":"3",
+               "reps":"10"
+            },
+            {
+               "name":"Wide pull ups",
+               "sets":"2",
+               "reps":"5"
+            },
+            {
+               "name":"Close grip pull ups",
+               "sets":"2",
+               "reps":"5"
+            },
+            {
+               "name":"Reverse flies",
+               "sets":"3",
+               "reps":"8"
+            },
+            {
+               "name":"One arm body rows",
+               "sets":"3 each",
+               "reps":"10"
+            },
+            {
+               "name":"Slow chin ups",
+               "sets":"3",
+               "reps":"60 sec"
+            },
+            {
+               "name":"Ring curls",
+               "sets":"3",
+               "reps":"10"
+            }
+         ]
+      },
+      "Saturday":{
+         "muscle":"Legs",
+         "exercises":[
+            {
+               "name":"Free squat",
+               "sets":"2",
+               "reps":"25"
+            },
+            {
+               "name":"Weight squat",
+               "sets":"2",
+               "reps":"25"
+            },
+            {
+               "name":"Jump squat",
+               "sets":"2",
+               "reps":"25"
+            },
+            {
+               "name":"Jumping lunges",
+               "sets":"2",
+               "reps":"24"
+            },
+            {
+               "name":"Single leg squat",
+               "sets":"1",
+               "reps":"5"
+            },
+            {
+               "name":"Leg curl",
+               "sets":"3",
+               "reps":"10"
+            }
+         ]
+      },
+      "Sunday":{
+         "muscle":"Abs",
+         "exercises":[
+            {
+               "name":"Hit workout from youtube",
+               "sets":"1",
+               "reps":"20 minutes"
+            }
+         ]
+      }
+   }
+}

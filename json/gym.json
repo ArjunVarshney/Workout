@@ -1,0 +1,208 @@
+{
+   "workout": {
+      "Monday":{
+         "muscle":"Shoulder",
+         "exercises":[
+            {
+               "name":"Barbell rod",
+               "sets":"3",
+               "reps":"10"
+            },
+            {
+               "name":"SIde Lateral Dumbell",
+               "sets":"3",
+               "reps":"10"
+            },
+            {
+               "name":"Dumbell press",
+               "sets":"3",
+               "reps":"10"
+            },
+            {
+               "name":"Read delt machine",
+               "sets":"3",
+               "reps":"10"
+            },
+            {
+               "name":"Up Right Machine",
+               "sets":"3",
+               "reps":"10"
+            }
+         ]
+      },
+      "Tuesday":{
+         "muscle":"Legs",
+         "exercises":[
+            {
+               "name":"Free squat ",
+               "sets":"2",
+               "reps":"20"
+            },
+            {
+               "name":"Weight squat",
+               "sets":"2",
+               "reps":"20"
+            },
+            {
+               "name":"Leg extension",
+               "sets":"3",
+               "reps":"10"
+            },
+            {
+               "name":"Leg press",
+               "sets":"3",
+               "reps":"10"
+            },
+            {
+               "name":"Leg curl",
+               "sets":"3",
+               "reps":"10"
+            },
+            {
+               "name":"Calf raises",
+               "sets":"3",
+               "reps":"50"
+            }
+         ]
+      },
+      "Wednesday":{
+         "muscle":"Chest",
+         "exercises":[
+            {
+               "name":"Chest press",
+               "sets":"3",
+               "reps":"10"
+            },
+            {
+               "name":"Pec deck fly",
+               "sets":"3",
+               "reps":"10"
+            },
+            {
+               "name":"Bench press",
+               "sets":"3",
+               "reps":"10"
+            },
+            {
+               "name":"Incline bench dumbell fly",
+               "sets":"3",
+               "reps":"10"
+            },
+            {
+               "name":"Decline bench dumbell fly",
+               "sets":"3",
+               "reps":"10"
+            },
+            {
+               "name":"Pullover",
+               "sets":"3",
+               "reps":"10"
+            },
+            {
+               "name":"Decline bench press",
+               "sets":"3",
+               "reps":"10"
+            }
+         ]
+      },
+      "Thursday":{
+         "muscle":"Tricep",
+         "exercises":[
+            {
+               "name":"Both arm dumbell",
+               "sets":"3",
+               "reps":"10"
+            },
+            {
+               "name":"Pull down machine",
+               "sets":"3",
+               "reps":"10"
+            },
+            {
+               "name":"Back dips",
+               "sets":"3",
+               "reps":"10"
+            },
+            {
+               "name":"Single arm dumbell",
+               "sets":"3",
+               "reps":"10"
+            },
+            {
+               "name":"Machine over head",
+               "sets":"3",
+               "reps":"10"
+            }
+         ]
+      },
+      "Friday":{
+         "muscle":"Back",
+         "exercises":[
+            {
+               "name":"Pully front",
+               "sets":"3",
+               "reps":"10"
+            },
+            {
+               "name":"Rowing machine",
+               "sets":"3",
+               "reps":"10"
+            },
+            {
+               "name":"Pully close grip",
+               "sets":"3",
+               "reps":"10"
+            },
+            {
+               "name":"Rowing dumbell",
+               "sets":"3",
+               "reps":"10"
+            },
+            {
+               "name":"Pully back",
+               "sets":"3",
+               "reps":"10"
+            }
+         ]
+      },
+      "Saturday":{
+         "muscle":"Bicep",
+         "exercises":[
+            {
+               "name":"Barbell curl",
+               "sets":"3",
+               "reps":"10"
+            },
+            {
+               "name":"Alternate dumbell",
+               "sets":"3",
+               "reps":"20"
+            },
+            {
+               "name":"Preacher curl",
+               "sets":"3",
+               "reps":"10"
+            },
+            {
+               "name":"Hammer Dumbell",
+               "sets":"3",
+               "reps":"10"
+            },
+            {
+               "name":"Cable Machine",
+               "sets":"3",
+               "reps":"10"
+            },
+            {
+               "name":"Reverse grip cable machine",
+               "sets":"3",
+               "reps":"10"
+            }
+         ]
+      },
+      "Sunday":{
+         "muscle":"Abs",
+         "exercises":[]
+      }
+   }
+}

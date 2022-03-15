@@ -41,42 +41,37 @@
          ]
       },
       "Tuesday":{
-         "muscle":"Legs",
+         "muscle":"Posture Correction",
          "exercises":[
             {
-               "name":"Free squat",
+               "name":"Foam roller flies",
                "sets":"2",
-               "reps":"25"
+               "reps":"3 min"
             },
             {
-               "name":"Weight squat",
+               "name":"Foam roller up-downs",
                "sets":"2",
-               "reps":"25"
+               "reps":"3 min"
             },
             {
-               "name":"Jump squat",
+               "name":"Wall Ws",
                "sets":"2",
-               "reps":"25"
+               "reps":"2 min"
             },
             {
-               "name":"Jumping lunges",
+               "name":"Superman",
                "sets":"2",
-               "reps":"24"
+               "reps":"3 min"
             },
             {
-               "name":"Single leg squat",
-               "sets":"1",
-               "reps":"5"
-            },
-            {
-               "name":"Leg curl",
-               "sets":"3",
-               "reps":"10"
+               "name":"Rod Back stretches",
+               "sets":"2",
+               "reps":"3 min"
             }
          ]
       },
       "Wednesday":{
-         "muscle":"Legs",
+         "muscle":"Chest",
          "exercises":[
             {
                "name":"90 degree holds",
