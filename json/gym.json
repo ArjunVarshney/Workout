@@ -30,7 +30,7 @@
             }
          ]
       },
-      "Tuesday":{
+      "Saturday":{
          "muscle":"Legs",
          "exercises":[
             {
@@ -165,7 +165,7 @@
             }
          ]
       },
-      "Saturday":{
+      "Tuesday":{
          "muscle":"Bicep",
          "exercises":[
             {
